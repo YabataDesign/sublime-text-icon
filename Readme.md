@@ -1,6 +1,6 @@
 # Sublime Text Icon #
 
-A replacement icon for Sublime Text 2 and Sublime Text 3.
+A replacement icon for Sublime Text 2 and 3.
 
 ## Installation (Mac OS X) ##
 
@@ -14,6 +14,6 @@ or (Sublime Text 3)
 
 Replace `Sublime Text 2.icns` or `Sublime Text.icns` with the file "Sublime Text.icns" of this repository.
 
-## Previews ##
+## Preview ##
 
 ![Preview](Sublime_text_512x512x32.png)

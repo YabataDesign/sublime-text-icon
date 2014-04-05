@@ -1,4 +1,4 @@
-# Sublime Text 2 Icon #
+# Sublime Text Icon #
 
 A replacement icon for Sublime Text 2 and Sublime Text 3.
 
